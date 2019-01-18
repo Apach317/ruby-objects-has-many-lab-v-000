@@ -9,7 +9,7 @@ class Artist
     @songs = []
   end
 
-  def songs.all
+  def songs
     @songs
   end
 
